@@ -1,0 +1,10 @@
+{
+  "display_name": "双子星 Build/ST · 酒馆分流",
+  "loading_order": 900,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "Build Standalone",
+  "version": "0.5.3-twinstar-rpc",
+  "description": "TT / SillyTavern 的 Build RPC 分流：预设直入提示词，历史、世界书和角色资料进入附件；只处理 build-st/ 模型。"
+}
